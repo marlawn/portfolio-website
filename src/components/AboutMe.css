@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Gaegu:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gaegu:wght@700&display=swap');
+
+.about-me {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-me-heading {
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+    font-size: 3rem;
+}
+
+.underline {
+    font-size: 3rem;
+    margin:0;
+    margin-top:-3.5rem;
+    padding:0;
+}
+
+.about-me-text {
+    margin:0;
+    margin-top:1rem;
+    padding:0;
+    max-width: 50%;
+    text-align: center;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+
+.list li {
+    text-align: center;
+}
+
+.list-header {
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+}
+
+.academic {
+    margin: 0;
+    padding: 0;
+    font-weight: 800;
+}
+
+@media (max-width: 428px) {
+    .about-me-text {
+        max-width: 80%;
+    }
+    .list li {
+        text-align: center;
+        padding-bottom: 2rem;
+    }
+    .column {
+        width: 100%;
+    }
+}

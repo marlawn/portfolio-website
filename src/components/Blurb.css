@@ -1,0 +1,24 @@
+.Blurb {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.image {
+    width: 15rem;
+}
+
+.text {
+    margin: 0;
+    padding: 0;
+    max-width: 25rem;
+    text-align: center;
+}
+
+@media (max-width: 428px) {
+    .text {
+        max-width: 80%;
+    }
+}

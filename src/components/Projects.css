@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Gaegu:wght@400&display=swap');
+
+.Projects {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5rem;
+}
+
+.heading {
+    font-weight: 400;
+    font-size: 3rem;
+    margin: 0;
+}
+
+.list {
+    margin: 0.5rem;
+    list-style: none;
+    text-align: center;
+    padding: 0;
+}
+
+.list ul {
+    margin: 0;
+    padding: 0;
+}
+
+.list li a {
+    text-decoration: none;
+}
