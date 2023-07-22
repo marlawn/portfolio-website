@@ -54,7 +54,7 @@
 
 .toggle {
     position: absolute; /* always at the same spot */
-    top: .75rem; /* not touching the top */
+    top: 1.25rem; /* not touching the top */
     right: 1rem;
     display: none; /* does not show on default */
     flex-direction: column; /* stacks */
@@ -66,7 +66,7 @@
 .toggle .bar {
     height: 3px;
     width: 100%;
-    background-color: white;
+    background-color: #323232;
     border-radius: 10px;
 }
 
