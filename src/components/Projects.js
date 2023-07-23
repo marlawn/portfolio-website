@@ -1,6 +1,6 @@
 import './Projects.css'
 
-function Projects() {
+function Projects(ref) {
     return(
         <div class="Projects">
             <h class="heading"> &lt;projects /&gt; </h>
@@ -12,6 +12,5 @@ function Projects() {
             </ul>
         </div>
     );
-}
-
+} 
 export default Projects;
