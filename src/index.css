@@ -5,7 +5,8 @@ body {
   font-family: 'Gaegu', cursive;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #DDD0C8;
+  /* background-color: #DDD0C8; */
+  background-color: white;
   font-size: 2rem;
   color:#323232;
 }
