@@ -12,3 +12,4 @@ https://github.com/marlawn/portfolio-website/assets/93688231/09343782-8bf9-4cc7-
 - Next.js
 - Tailwind CSS
 - anime.js
+- GitHub Pages
