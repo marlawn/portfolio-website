@@ -87,7 +87,7 @@ export default function Home() {
         <SplashScreen finishLoading={() => setIsLoading(false)} />
       ) : (
         <body id="nameTitle" className="px-[8vw] py-[2vh] md:px-[8vw] md:py-[10vh]">
-          <div className="grid grid-cols-1 md:grid-cols-2">
+          <div className="grid grid-cols-1 md:grid-cols-2 text-white">
             <header className="md:self-start p-[5vw]">
               <div className="flex flex-col">
                 <div className="tracking-tighter text-3xl font-bold py-1">M A R L O N</div>

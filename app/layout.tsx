@@ -1,8 +1,5 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import SplashScreen from "./components/SplashScreen";
-import { usePathname } from "next/navigation";
-import { useEffect, useState } from "react";
 import { Space_Mono } from "next/font/google";
 
 const space_mono = Space_Mono({
@@ -23,7 +20,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={space_mono.className}>
       <head><link rel="icon" href="./images/icon.ico" sizes="any" /></head>
-      <body>{children}</body>
+      <body className="bg-black-bg">{children}</body>
     </html>
   );
 }
