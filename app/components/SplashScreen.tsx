@@ -36,7 +36,7 @@ const SplashScreen = ({finishLoading} : {finishLoading: any}) => {
 
   return (
     <div className="flex h-screen items-center justify-center overflow-hidden">
-      <Image id="splash" src="/nextjs-github-pages/images/screen.png" alt ="" width={200} height={200}/>
+      <Image id="splash" src="./images/screen.png" alt ="" width={200} height={200}/>
     </div>
   )
 }
