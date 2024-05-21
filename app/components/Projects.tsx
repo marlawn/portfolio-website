@@ -19,7 +19,7 @@ const Projects = () => {
             </div>
             <br />
             <div className='duration-500 hover:scale-105 hover:text-red-600 hover:cursor-pointer'>
-                <a href="">
+                <a href="https://github.com/marlawn/portfolio-website">
                     <li className='font-black'><pre>&lt;PortfolioWebsite &#47;&gt;</pre></li>
                     <li className='text-xs'>typescript/html/css, next.js, tailwind, anime.js</li>
                 </a>
