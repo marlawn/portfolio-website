@@ -10,7 +10,7 @@ const About = () => {
         My goal is to learn new skills and technologies to help further my knowledge in programming.
         My dedication lies in improvement, and someday I hope to be a well-established software engineer.
       </div>
-      <div className="flex justify-center md:justify-end pt-[2vh]"><Image className="rounded-full" src="/images/headshot.jpg" alt="" width={150} height={150}/></div>
+      <div className="flex justify-center md:justify-end pt-[2vh]"><Image className="rounded-full" src="/nextjs-github-pages/images/headshot.jpg" alt="" width={150} height={150}/></div>
     </div>
   )
 }
