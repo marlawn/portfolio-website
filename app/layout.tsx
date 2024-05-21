@@ -22,7 +22,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={space_mono.className}>
-      <head><link rel="icon" href="/images/icon.ico" sizes="any" /></head>
+      <head><link rel="icon" href="./images/icon.ico" sizes="any" /></head>
       <body>{children}</body>
     </html>
   );
