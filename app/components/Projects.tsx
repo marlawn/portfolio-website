@@ -5,6 +5,13 @@ const Projects = () => {
     <div className="flex items-center justify-start text-left md:text-right md:justify-end">
         <ul>
             <div className='duration-500 hover:scale-105 hover:text-red-600 hover:cursor-pointer'>
+                <a href="https://github.com/marlawn/recipe-app">
+                    <li className='font-black'><pre>&lt;Recipe App &#47;&gt;</pre></li>
+                    <li className='text-xs'>python/typescript/css, react.js (vite), tailwind, django, aws ec2, aws s3</li>
+                </a>
+            </div>
+            <br />
+            <div className='duration-500 hover:scale-105 hover:text-red-600 hover:cursor-pointer'>
                 <a href="https://github.com/marlawn/GestureLink">
                     <li className='font-black'><pre>&lt;GestureLink &#47;&gt;</pre></li>
                     <li className='text-xs'>python/c, machine learning, esp32, wearable technology, iot, electrical engineering</li>
