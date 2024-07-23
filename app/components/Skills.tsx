@@ -22,6 +22,7 @@ const Skills = () => {
           <li>android studio</li>
           <li>spring boot</li>
           <li>django</li>
+          <li>aws ec2/s3</li>
           <li>bootstrap + tailwind</li>
           <li>javafx</li>
           <li>github</li>
