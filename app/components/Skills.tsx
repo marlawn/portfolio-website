@@ -18,10 +18,12 @@ const Skills = () => {
         <div className="font-black">FRAMEWORKS/TOOLS:</div>
         <ul>
           <li>next.js</li>
-          <li>react</li>
+          <li>react/vite</li>
           <li>android studio</li>
           <li>spring boot</li>
+          <li>django</li>
           <li>bootstrap + tailwind</li>
+          <li>javafx</li>
           <li>github</li>
         </ul>
     </div>
