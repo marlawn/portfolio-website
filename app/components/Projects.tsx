@@ -6,8 +6,8 @@ const Projects = () => {
         <ul>
             <div className='duration-500 hover:scale-105 hover:text-red-600 hover:cursor-pointer'>
                 <a href="https://github.com/marlawn/recipe-app">
-                    <li className='font-black'><pre>&lt;Recipe App &#47;&gt;</pre></li>
-                    <li className='text-xs'>python/typescript/css, react.js (vite), tailwind, django, aws ec2, aws s3</li>
+                    <li className='font-black'><pre>&lt;RecipeApp &#47;&gt;</pre></li>
+                    <li className='text-xs'>python/typescript/html/css, react.js (vite), tailwind, django, aws ec2, aws s3</li>
                 </a>
             </div>
             <br />
