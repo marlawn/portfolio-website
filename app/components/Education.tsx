@@ -9,7 +9,7 @@ const Education = () => {
             <li>rutgers university</li>
             <br />
             <li className='font-black'>GPA:</li>
-            <li>3.694/4.000</li>
+            <li>3.7/4.0</li>
             <br />
             <li className="font-black">HONORS:</li>
             <li>summa cum laude (highest honors)</li>
